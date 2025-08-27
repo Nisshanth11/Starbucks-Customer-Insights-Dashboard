@@ -1,0 +1,31 @@
+# Starbucks Customer Insights Dashboard ☕
+
+## 📊 Project Overview
+This project analyzes Starbucks customer survey data using **Power BI**.  
+The goal was to visualize key insights with an engaging, branded design.
+
+## ✨ Features
+- ⭐ Average Rating, 💵 Average Spend, ⏱ Average Time, 👥 Respondent Count
+- 📊 Donut Charts for Gender & Consumption Method
+- 📉 Line chart for Time Spent
+- 📊 Bar chart for Visit Frequency
+- 🌳 Treemap for Age Groups
+- 🎨 Starbucks-inspired custom theme & layout
+
+## 🖼 Preview
+![Dashboard Preview](Before_After.png)
+
+## 📄 Files
+- `Starbucks_Carousel_Remake_Trimmed.pdf` – Final dashboard (LinkedIn-ready)
+- `Before_After.png` – Dashboard transformation (plain vs themed)
+- Dataset (if public)
+
+## 🚀 Skills Practiced
+- Data Cleaning & Modeling
+- DAX Measures
+- Dashboard Storytelling & Theming
+- Power BI Visualizations
+
+## 🔗 LinkedIn Post
+https://www.linkedin.com/in/nisshanth011/
+
